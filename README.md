@@ -1,2 +1,2 @@
 # Back-end-Daily-Notes
-Colle
+Collection of awesome Back-end Notes
